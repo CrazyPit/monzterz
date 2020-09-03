@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/monzterz/static/css/main.6752228b.chunk.css",
+    "main.js": "/monzterz/static/js/main.663feca4.chunk.js",
+    "main.js.map": "/monzterz/static/js/main.663feca4.chunk.js.map",
+    "runtime-main.js": "/monzterz/static/js/runtime-main.324f01cc.js",
+    "runtime-main.js.map": "/monzterz/static/js/runtime-main.324f01cc.js.map",
+    "static/js/2.b4309f00.chunk.js": "/monzterz/static/js/2.b4309f00.chunk.js",
+    "static/js/2.b4309f00.chunk.js.map": "/monzterz/static/js/2.b4309f00.chunk.js.map",
+    "index.html": "/monzterz/index.html",
+    "precache-manifest.8efb81d8098fae061b1ad8e243fce4af.js": "/monzterz/precache-manifest.8efb81d8098fae061b1ad8e243fce4af.js",
+    "service-worker.js": "/monzterz/service-worker.js",
+    "static/css/main.6752228b.chunk.css.map": "/monzterz/static/css/main.6752228b.chunk.css.map",
+    "static/js/2.b4309f00.chunk.js.LICENSE.txt": "/monzterz/static/js/2.b4309f00.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.324f01cc.js",
+    "static/js/2.b4309f00.chunk.js",
+    "static/css/main.6752228b.chunk.css",
+    "static/js/main.663feca4.chunk.js"
+  ]
+}
